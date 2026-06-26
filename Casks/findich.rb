@@ -1,6 +1,6 @@
 cask "findich" do
-  version "1.3.0"
-  sha256 "23128a19d3543ecb6cf689969e577d83fa1860618e1a1f3de451b14630098061"
+  version "1.4.0"
+  sha256 "6022f7e07683cbc962263f0ff9ff9bd06e75cd9cc2715218004df386ad4b90ff"
 
   url "https://github.com/Majorfi/immich-in-finder/releases/download/v#{version}/Findich.dmg",
       verified: "github.com/Majorfi/immich-in-finder/"
