@@ -2,8 +2,7 @@ cask "findich" do
   version "1.4.0"
   sha256 "6022f7e07683cbc962263f0ff9ff9bd06e75cd9cc2715218004df386ad4b90ff"
 
-  url "https://github.com/Majorfi/immich-in-finder/releases/download/v#{version}/Findich.dmg",
-      verified: "github.com/Majorfi/immich-in-finder/"
+  url "https://github.com/Majorfi/immich-in-finder/releases/download/v#{version}/Findich.dmg"
   name "Findich"
   desc "Browse a self-hosted Immich photo library as native Finder folders"
   homepage "https://findich.app/"
